@@ -10,6 +10,6 @@ env/
 *.ckpt
 *.pt
 *.safetensors
-data/
+/data/
 wandb/
 .DS_Store
